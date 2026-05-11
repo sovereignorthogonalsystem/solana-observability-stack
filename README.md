@@ -96,3 +96,7 @@ Default Grafana login:
 ```text
 admin / admin
 ```
+
+## Project Brief
+
+See PROJECT_BRIEF.md for a concise explanation of the problem, solution, monitored targets, metrics, operational assets, and resume signal.
