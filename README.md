@@ -38,3 +38,61 @@ pytest
 ## Status
 
 Experimental portfolio project. Not financial, legal, security, or investment advice.
+
+## Grafana Dashboard
+
+This repo includes a provisioned Grafana dashboard for:
+
+- Solana RPC uptime
+- AgentTxGuard uptime
+- Solana RPC latency
+- AgentTxGuard latency
+- Solana slot tracking
+- monitor error totals
+
+Run the full stack:
+
+```bash
+docker compose up --build
+```
+
+Open Grafana:
+
+```text
+http://127.0.0.1:3000
+```
+
+Default Grafana login:
+
+```text
+admin / admin
+```
+
+## Grafana Dashboard
+
+This repo includes a provisioned Grafana dashboard for:
+
+- Solana RPC uptime
+- AgentTxGuard uptime
+- Solana RPC latency
+- AgentTxGuard latency
+- Solana slot tracking
+- monitor error totals
+
+Run the full stack:
+
+```bash
+docker compose up --build
+```
+
+Open Grafana:
+
+```text
+http://127.0.0.1:3000
+```
+
+Default Grafana login:
+
+```text
+admin / admin
+```

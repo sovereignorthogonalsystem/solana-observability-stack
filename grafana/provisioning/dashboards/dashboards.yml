@@ -1,0 +1,11 @@
+apiVersion: 1
+
+providers:
+  - name: Solana Agent Dashboards
+    orgId: 1
+    folder: Solana Observability
+    type: file
+    disableDeletion: false
+    editable: true
+    options:
+      path: /var/lib/grafana/dashboards
